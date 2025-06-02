@@ -1,41 +1,14 @@
 {
     "vinayak": {
         "username": "vinayak",
-        "password": "gAAAAABm9mYB_VAOgEcYo_vaXmLmknTqY3_506909ah_fd5O4ZeKbeVYhxELyJEB06cUSsx9UvgZDvuGOkB4JHKCBZBOx9-kIA==",
+        "password": "gAAAAABnFMuo-t37pKMFZaDUQGIY0puEiO7H_hvuzVvu5bELA6QXdjHXmH4znKcE8F8DHPomJbwb6KE63e-P6p-YZNuiR7wcLw==",
         "cart": [
             {
-                "product_id": "006",
-                "name": "Gaming Console",
-                "price": 399.99
-            },
-            {
-                "product_id": "008",
-                "name": "Bluetooth Speaker",
-                "price": 59.99
+                "product_id": "004",
+                "name": "Smartwatch",
+                "price": 199.99
             }
         ],
-        "order_history": [
-            [
-                {
-                    "product_id": "002",
-                    "name": "Smartphone",
-                    "price": 499.99
-                }
-            ],
-            [
-                {
-                    "product_id": "005",
-                    "name": "Wireless Earbuds",
-                    "price": 129.99
-                }
-            ],
-            [
-                {
-                    "product_id": "005",
-                    "name": "Wireless Earbuds",
-                    "price": 129.99
-                }
-            ]
-        ]
+        "order_history": []
     }
 }
